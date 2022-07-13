@@ -3,7 +3,7 @@ Analys from thumbnals, title, text, video type, etc.
 
 Data science with youtube api, cv, ocr, nlp, pandas and ML method
 
-Also using tableau for data visulization
+Also using tableau for data visualization
 
 <h2> text </h2>
 <li> bert score </li>
