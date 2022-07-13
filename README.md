@@ -11,6 +11,8 @@ Also using tableau for data visualization
 <h2> img </h2>
 <li> youtube api </li>
 <li> pytesseract ocr </li>
+<li> k-means main color clustering </li>
+<li> contrast </li>
 
 <h2> ML </h2>
 <li> K-Means </li>
