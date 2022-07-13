@@ -1,4 +1,4 @@
-# youtube_analysis
+# Video Analysis
 Analys from thumbnals, title, text, video type, etc.
 
 Data science with youtube api, cv, ocr, nlp, pandas and ML method
