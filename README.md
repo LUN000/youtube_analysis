@@ -22,6 +22,6 @@ Also using tableau for data visulization
 
 <h2> Data EDA </h2>
 <li> pandas </li>
-![Correlation Matrix](https://user-images.githubusercontent.com/71457201/178806784-7e8f9249-bcef-4e7e-89fc-f2dfce520c1e.png)
+<img src="img/Correlation Matrix.png">
 <li> Tableau </li>
-![指標相關](https://user-images.githubusercontent.com/71457201/178806862-ac6f3271-4af1-4669-9dbd-d27f1990cc48.png)
+<img src="img/指標相關.png">
