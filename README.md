@@ -14,7 +14,7 @@ Also using tableau for data visualization
 <li> pytesseract ocr </li>
 <li> k-means main color clustering </li>
 <li> contrast </li>
-<li> labelimg tag layout </li>
+<li> labelimg tag layout <img src="img/labelimg.png"></li>
 
 <h2> Data EDA </h2>
 <li> pandas </li>
