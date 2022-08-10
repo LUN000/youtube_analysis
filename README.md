@@ -6,6 +6,10 @@ Data science with youtube api, cv, ocr, nlp, pandas and ML method
 Also using tableau for data visualization
 
 <h2> Data preprocessing </h2>
+<h3> Youtube Reporting & Analytics api </h3>
+<li> all video meta data (impresion, view, subs, tags, revenue, thumbnails, etc.) </li>
+<li> traffic source </li>
+
 <h3> text </h3>
 <li> bert score </li>
 
