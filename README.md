@@ -11,6 +11,7 @@ Also using tableau for data visualization
 <li> traffic source </li>
 
 <h3> text </h3>
+<li> TextFuseNet OCR </li>
 <li> bert score </li>
 
 <h3> img </h3>
